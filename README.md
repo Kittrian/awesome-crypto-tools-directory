@@ -250,6 +250,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [Scam Sniffer](https://cryptotoolsdirectory.com/tools/scam-sniffer)       | 9.5 /10  | Phishing intel | Drainer and fake-site blocking | Real-time phishing/drainer blocklists, browser warnings, malicious address DB |
 | [Token Sniffer](https://cryptotoolsdirectory.com/tools/token-sniffer)     | 9.4 /10  | Token scanner  | Contract scam scoring          | Automated risk scores, honeypot checks, scam-code similarity matching         |
 | [GoPlus Security](https://cryptotoolsdirectory.com/tools/goplus-security) | 9.4 /10  | Risk API       | Multi-chain token risk flags   | Honeypot/mint/blacklist flags, wide wallet integrations, 30+ chain coverage   |
+| [Guava Wallet Intelligence](https://www.guavaintel.com)          | 8.5 /10  | Token + wallet scanner | Honeypot, rug pull, wallet risk | 30+ security checks, wallet risk scoring, 31-chain coverage, free tier, MCP server |
 
 ---
 
@@ -341,6 +342,7 @@ Ship dApps faster with production RPC, IPFS, and indexing APIs—Alchemy, QuickN
 | [QuickNode](https://cryptotoolsdirectory.com/tools/quicknode) | 9.6 /10  | Multi-chain RPC     | Broad chain coverage        | Fast global RPC + add-ons marketplace; params: CU/credits, latency regions, archive access, WSS streams    |
 | [Infura](https://cryptotoolsdirectory.com/tools/infura)       | 9.5 /10  | Ethereum RPC        | ETH/L2 + IPFS apps          | Mature Consensys RPC/IPFS stack; params: daily request caps, project keys, network endpoints, IPFS gateway |
 | [The Graph](https://cryptotoolsdirectory.com/tools/the-graph) | 9.4 /10  | Indexing protocol   | Subgraph / GraphQL queries  | Decentralized event indexing; params: subgraph schema, query fees, indexing status, network selection      |
+| [Guava Wallet Intelligence](https://www.guavaintel.com/api-reference) | 8.5 /10  | Security & risk API | Token/wallet risk scanning  | Honeypot detection, wallet risk scoring, 31-chain coverage, REST API + MCP server, free tier 10 req/day    |
 
 ---
 
